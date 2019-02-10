@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uoqueecu.arkeindustries.com/sitemap.xml
